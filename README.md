@@ -28,14 +28,14 @@ All the login details are provided inside the project folder, check that out and
 And there you have it, a full setup of Employee Task Management System in PHP MySQL. For this particular PHP project, PHP Version 5.6.3 or 7.4.12 is required because it’s well tested on both. So, users with the latest PHP version (greater than 7.4.12) might face various errors while operating it. As a result, you’ll need to downgrade your PHP version (only if you’re using the latest version) at the moment. Download Free Employee Task Management System Project in PHP MySQL with Source Code. So, this employee system is a quick simple PHP project for all the beginners as well as the intermediate level that broads vast knowledge into such web applications. In conclusion, this whole PHP project with free source code is an absolute project and a meaningful way for the users to learn and explore more about it.
 
 
-## Admin Login Info Details
+### Admin Login Info Details
 
 userName: admin <br />
 passWord: Watch Youtube Video () <br/>
 
-## Employee Login Details
+### Employee Login Details
 
-Username: mhrony
+Username: mhrony <br/>
 passWord: Watch Youtube Video () <br/>
 
 
